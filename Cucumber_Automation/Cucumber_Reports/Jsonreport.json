@@ -1,0 +1,366 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Home Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;home-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "user Launch The Application",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "user Click On The Sign-In Button And It Navigates To Sign-In Page",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "Sign-In Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;sign-in-page;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user Enter The Valid \u003c\"Email-ID\"\u003e In The Email Address Field",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "user Enter The Valid \u003c\"Password\"\u003e In The Password Field",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User Click On The Sign-In Button And It Navigates To Selection Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "Sign-In Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;sign-in-page;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user Enter The Valid \u003c\"Email-ID\"\u003e In The Email Address Field",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "user Enter The Valid \u003c\"Password\"\u003e In The Password Field",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User Click On The Sign-In Button And It Navigates To Selection Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 21,
+        "name": "Sign-In Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;sign-in-page;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 11,
+            "name": "user Enter The Valid \u003c\"Email-ID\"\u003e In The Email Address Field",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 13,
+            "name": "user Enter The Valid \u003c\"Password\"\u003e In The Password Field",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 15,
+            "name": "User Click On The Sign-In Button And It Navigates To Selection Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 23,
+        "name": "Women Selection page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;women-selection-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 25,
+            "name": "user Click On The Women Button and It Navigates to Women Fashion Collection Page",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 27,
+            "name": "user Click On The Printed Dress Image And Add The Dress To Add To Cart Section",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 29,
+            "name": "user Click On The Proceed To Checkout Button And It Navigates To Shopping Cart Summary Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 31,
+        "name": "Dresses Selection Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;dresses-selection-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 33,
+            "name": "user Click On The Dresses Button and It Navigates to Dresses Fashion Collection Page",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 35,
+            "name": "user Click On The Printed Dress Image And Add The Dress To Add To Cart Section",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 37,
+            "name": "user Click On The Proceed To Checkout Button And It Navigates To Shopping Cart Summary Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 39,
+        "name": "T-Shirts Selection Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;t-shirts-selection-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 41,
+            "name": "user Click On The T-Shirts Button and It Navigates to T-Shirts Fashion Collection Page",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 43,
+            "name": "user Click On The Printed Dress Image And Add The Dress To Add To Cart Section",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 45,
+            "name": "user Click On The Proceed To Checkout Button And It Navigates To Shopping Cart Summary Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 49,
+        "name": "Shopping Cart Summary Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;shopping-cart-summary-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 51,
+            "name": "user Click on The Proceed To Checkout Button And IT Navigates To Billing Address Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "name": "Billing Address Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;billing-address-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 55,
+            "name": "user Click On The Proceed To Checkout Button And It Navigates To Shipping Address Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 57,
+        "name": "Shipping Address Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;shipping-address-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 59,
+            "name": "user click On the Terms Of Service Check Box",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 61,
+            "name": "user Click On The Proceed To Checkout Button And It Navigates To Payment Method Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 63,
+        "name": "Payment Method Page",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;payment-method-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 65,
+            "name": "user Click On The Pay By Bank Wire Payment Method",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "line": 67,
+        "name": "Bank Wire Payment Pages",
+        "description": "",
+        "id": "dresses-selection-in-automation-purchase;bank-wire-payment-pages",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 69,
+            "name": "user Click On The I Confirm The Order Button And It Navigates to Order Confirmation Page",
+            "match": {},
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Dresses Selection In Automation Purchase",
+    "description": "",
+    "id": "dresses-selection-in-automation-purchase",
+    "keyword": "Feature",
+    "uri": "src/test/java/com/Automation_Feature/Automation_Practice.feature"
+  }
+]
